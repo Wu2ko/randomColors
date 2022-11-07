@@ -1,0 +1,16 @@
+@import "_var";
+@import "_header";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: $tomato;
+}
+img {
+    max-width: 20rem;
+    max-height: 20rem;
+    margin: 1rem;
+}
